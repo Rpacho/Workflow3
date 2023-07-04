@@ -1,14 +1,25 @@
 {
-  "name": "com.alchemicalflux.package-template",
-  "version": "1.0.0",
-  "displayName": "AlchemicalFlux Package Template",
-  "description": "Unity package containing the folder and file structure for generating a working Unity Package",
-  "unity": "2021.3",
-  "dependencies": {},
-  "keywords": [],
-  "author": {
-    "name": "Jeremy Miller",
-    "email": "alchemicalflux@gmail.com",
-    "url": ""
+    "name": "com.nftygames.ugm",
+    "version": "0.0.2",
+    "displayName": "UGM",
+    "description": "This is the SDK of the UGM",
+    "unity": "2020.3",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {},
+    "author": {
+      "name": "Nfty Games",
+      "email": "unity@example.com",
+      "url": "https://www.unity3d.com"
+    },
+    "samples": [
+        {
+            "displayName": "UGM Examples",
+            "description": "Contains a lot of functions to use UGM",
+            "path": "Samples~/UGM"
+        }
+    ]
   }
-}
+  
